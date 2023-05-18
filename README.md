@@ -6,6 +6,11 @@
 
 | Name | Year | Edition | Language | URL |
 |------|------|---------|----------|-----|
+| Office | 2021 | Home and Student | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2021Retail.img">HTTPS</a> |
+| Office | 2021 | Personal | Japanese | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/ja-JP/Personal2021Retail.img">HTTPS</a> |
+| Office | 2021 | Home and Business | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeBusiness2021Retail.img">HTTPS</a> |
+| Office | 2021 | Professional | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Professional2021Retail.img">HTTPS</a> |
+| Office | 2021 | Professional Plus | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2021Retail.img">HTTPS</a> |
 | Office | 2019 | Home and Student | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2019Retail.img">HTTPS</a> |
 | Office | 2019 | Personal | Japanese | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/ja-JP/Personal2019Retail.img">HTTPS</a> |
 | Office | 2019 | Home and Business | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeBusiness2019Retail.img">HTTPS</a> |
