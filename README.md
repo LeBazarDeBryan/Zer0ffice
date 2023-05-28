@@ -6,39 +6,39 @@
 
   | Name | Year | Edition | Language | URL |
   |------|------|---------|----------|-----|
-  | Office | 2021 | Home and Student | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeStudent2021Retail.img">IMG</a> |
+  | Office | 2021 | Home and Student | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeStudent2021Retail.img">IMG</a> |
   | Office | 2021 | Home and Student | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2021Retail.img">IMG</a> |
   | Office | 2021 | Personal | Japanese | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/ja-JP/Personal2021Retail.img">IMG</a> |
-  | Office | 2021 | Home and Business | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeBusiness2021Retail.img">IMG</a> |
+  | Office | 2021 | Home and Business | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeBusiness2021Retail.img">IMG</a> |
   | Office | 2021 | Home and Business | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeBusiness2021Retail.img">IMG</a> |
-  | Office | 2021 | Professional | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/Professional2021Retail.img">IMG</a> |
+  | Office | 2021 | Professional | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/Professional2021Retail.img">IMG</a> |
   | Office | 2021 | Professional | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Professional2021Retail.img">IMG</a> |
-  | Office | 2021 | Professional Plus | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/ProPlus2021Retail.img">IMG</a> |
+  | Office | 2021 | Professional Plus | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/ProPlus2021Retail.img">IMG</a> |
   | Office | 2021 | Professional Plus | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2021Retail.img">IMG</a> |
-  | Office | 2019 | Home and Student | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeStudent2019Retail.img">IMG</a> |
+  | Office | 2019 | Home and Student | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeStudent2019Retail.img">IMG</a> |
   | Office | 2019 | Home and Student | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudent2019Retail.img">IMG</a> |
   | Office | 2019 | Personal | Japanese | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/ja-JP/Personal2019Retail.img">IMG</a> |
-  | Office | 2019 | Home and Business | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeBusiness2019Retail.img">IMG</a> |
+  | Office | 2019 | Home and Business | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeBusiness2019Retail.img">IMG</a> |
   | Office | 2019 | Home and Business | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeBusiness2019Retail.img">IMG</a> |
-  | Office | 2019 | Professional | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/Professional2019Retail.img">IMG</a> |
+  | Office | 2019 | Professional | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/Professional2019Retail.img">IMG</a> |
   | Office | 2019 | Professional | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/Professional2019Retail.img">IMG</a> |
-  | Office | 2019 | Professional Plus | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2019Retail.img">IMG</a> |
+  | Office | 2019 | Professional Plus | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2019Retail.img">IMG</a> |
   | Office | 2019 | Professional Plus | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlus2019Retail.img">IMG</a> |
-  | Office | 2016 | Home and Student | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeStudentRetail.img">IMG</a> |
+  | Office | 2016 | Home and Student | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeStudentRetail.img">IMG</a> |
   | Office | 2016 | Home and Student | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeStudentRetail.img">IMG</a> |
   | Office | 2016 | Personal | Japanese | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/ja-JP/PersonalRetail.img">IMG</a> |
-  | Office | 2016 | Home and Business | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeBusinessRetail.img">IMG</a> |
+  | Office | 2016 | Home and Business | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/HomeBusinessRetail.img">IMG</a> |
   | Office | 2016 | Home and Business | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/HomeBusinessRetail.img">IMG</a> |
-  | Office | 2016 | Professional | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/ProfessionalRetail.img">IMG</a> |
+  | Office | 2016 | Professional | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/ProfessionalRetail.img">IMG</a> |
   | Office | 2016 | Professional | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProfessionalRetail.img">IMG</a> |
-  | Office | 2016 | Professional Plus | French | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/ProPlusRetail.img">IMG</a> |
+  | Office | 2016 | Professional Plus | Français | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/fr-FR/ProPlusRetail.img">IMG</a> |
   | Office | 2016 | Professional Plus | English | <a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img">IMG</a> |
-  | Office | 2013 | Home and Student | French | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=fr-FR&p3=HomeStudentRetail">IMG</a> |
+  | Office | 2013 | Home and Student | Français | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=fr-FR&p3=HomeStudentRetail">IMG</a> |
   | Office | 2013 | Home and Student | English | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=en-US&p3=HomeStudentRetail">IMG</a> |
   | Office | 2013 | Personal | Japanese | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=ja-JP&p3=PersonalRetail">IMG</a> |
-  | Office | 2013 | Home and Business | French | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=fr-FR&p3=HomeBusinessRetail">IMG</a> |
+  | Office | 2013 | Home and Business | Français | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=fr-FR&p3=HomeBusinessRetail">IMG</a> |
   | Office | 2013 | Home and Business | English | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=en-US&p3=HomeBusinessRetail">IMG</a> |
-  | Office | 2013 | Professional | French | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=fr-FR&p3=ProfessionalRetail">IMG</a> |
+  | Office | 2013 | Professional | Français | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=fr-FR&p3=ProfessionalRetail">IMG</a> |
   | Office | 2013 | Professional | English | <a href="https://officeredir.microsoft.com/r/rlidO15C2RMediaDownload?p1=db&p2=en-US&p3=ProfessionalRetail">IMG</a> |
 
 #
